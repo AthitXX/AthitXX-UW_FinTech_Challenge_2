@@ -141,4 +141,3 @@ def save_csv():
         csvpath = questionary.text("Enter a file path to a save file (.csv):").ask()
         csvpath = Path(csvpath)
     else sys.exit()
-
