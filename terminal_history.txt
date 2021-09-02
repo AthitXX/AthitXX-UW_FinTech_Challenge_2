@@ -1,0 +1,962 @@
+   50  ls
+   51  cat large_equity_rounds.csv
+   52  ls
+   53  python automated_equity_rounds.py
+   54  catlarge_equity_rounds.csv
+   55  cat large_equity_rounds.csv
+   56  cd -
+   57  ls
+   58  python automated_equity_rounds.py
+   59  clear
+   60  python automated_equity_rounds.py
+   61  clear
+   62  python automated_equity_rounds.py
+   63  python automated_equity_rounds.py
+   64  python automated_equity_rounds.py
+   65  catlarge_equity_rounds.csv
+   66  ls
+   67  cat my_output.csv
+   68  cat automated_equity_rounds.py
+   69  clear
+   70  cat automated_equity_rounds.py
+   71  pwd
+   72  python automated_equity_rounds.py
+   73  python automated_equity_rounds.py
+   74  ls
+   75  cat my_output.csv
+   76  python automated_equity_rounds.py
+   77  cd -
+   78  ls
+   79  cat large_equity_rounds.csv
+   80  cat automated_equity_rounds.py
+   81  cd -
+   82  ls
+   83  python automated_equity_rounds.py
+   84  python automated_equity_rounds.py
+   85  cat large_equity_rounds.csv
+   86  ls
+   87  cat my_output.csv
+   88   clear
+   89  ls
+   90  cd Downloads
+   91  ls -ltr
+   92  cdStarter_Code
+   93  ls
+   94  cd Starter_Code
+   95  ls -l
+   96  code .
+   97  ls -l
+   98  python loan_analyzer.py
+   99  python loan_analyzer.py
+  100  python loan_analyzer.py
+  101  python loan_analyzer.py
+  102  clear
+  103  python loan_analyzer.py
+  104  python loan_analyzer.py
+  105  python loan_analyzer.py
+  106  ls -l
+  107  clear
+  108  python loan_analyzer.py
+  109  python loan_analyzer.py
+  110  ls -l
+  111  cat inexpensive_loans.csv
+  112  clear
+  113  python loan_analyzer.py
+  114  cat inexpensive_loans.csv
+  115  conda activate dev
+  116  conda deactivate
+  117  /usr/local/bin/python3
+  118  /Applications/xmrig-6.12.1/xmrig ; exit;
+  119  cd Downloads
+  120  ls -la
+  121  cd 04_Automating_Equity_Rounds
+  122  ls
+  123  cd Unsolved
+  124  ls -la
+  125  cd ../Solved
+  126  ls -la
+  127  cat .
+  128  cat automated_equity_rounds.py
+  129  cd -
+  130  cat automated_equity_rounds.py
+  131  cd
+  132  cd Downloads
+  133  ls -ltr
+  134  cd Starter_Code
+  135  ls -la
+  136  cat .DS_Store
+  137  clear
+  138  code .
+  139  cd
+  140  ls
+  141  cd Downloads
+  142  ls
+  143  ls -ltr
+  144  cd Class_2_Activities
+  145  ls
+  146  code .
+  147  code .
+  148  cd ..
+  149  ls -l
+  150  ls -ltr
+  151  ls Cl*
+  152  cd Class_2_Activities
+  153  ls -la
+  154  cd 09_Stu_Loops
+  155  cd Unsolved
+  156  ls -la
+  157  python loops.py
+  158  python loops.py
+  159  python loops.py
+  160  python loops.py
+  161  python loops.py
+  162  python loops.py
+  163  python loops.py
+  164  python loops.py
+  165  which python
+  166  expoet
+  167  export
+  168  clear
+  169  man alias
+  170  clear
+  171  /Applications/xmrig-6.12.1/xmrig ; exit;
+  172  pip -v
+  173  pip -V
+  174  pip freeze
+  175  clear
+  176  conda activate dev
+  177  pip -V
+  178  pip freeze
+  179  pip intall fire
+  180  pip install fire
+  181  pip install questionary
+  182  cd Downloads
+  183  ls -ltr
+  184  ls -l Cla*
+  185  ls  Cla*
+  186  ls -ltr Cla*
+  187  code .
+  188  ls -l
+  189  code .
+  190  ls -la
+  191  code .
+  192  ls -la
+  193  code .
+  194  ls -ltr
+  195  code .
+  196  ls
+  197  ls -l
+  198  ls -ltr
+  199  clear
+  200  ls -ltr
+  201  code .
+  202  cd 02_Loan_Qualifier_Filtering_Data
+  203  cd Unsolved
+  204  ls -l
+  205  python app.py
+  206  python app.py
+  207  python app.py
+  208  python app.py
+  209  ls -l
+  210  pwd
+  211  python app.py
+  212  cd ..
+  213  cd ..
+  214  ls -ltr
+  215  ls -ltr
+  216  code .
+  217  code .
+  218  cd 02_Loan_Qualifier_Filtering_Data
+  219  cd Unsolved
+  220  ls -l
+  221  python app.py
+  222  cd
+  223  cd Downloads
+  224  ls -ls
+  225  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  226  ls -la
+  227  code .
+  228  cd..
+  229  ls -la
+  230  cd ..
+  231  ls -la
+  232  ls
+  233  ls -l
+  234  cd 02_Loan_Qualifier_Filtering_Data-3
+  235  code .
+  236  cd
+  237  cd Downloads
+  238  ls -la
+  239  ls -lt
+  240  ls -ltr
+  241  ls -ltr
+  242  cd 02_Loan_Qualifier_Filtering_Data
+  243  code .
+  244  cd Solved
+  245  ls
+  246  python app.py
+  247  cd ../Unsolved
+  248  python app.py
+  249  clear
+  250  cd ..
+  251  python app.py
+  252  pwd
+  253  cd Unsolved
+  254  python app.py
+  255  python app.py
+  256  python app.py
+  257  python app.py
+  258  clear
+  259  pwd
+  260  cd Downloads
+  261  ls -ltr
+  262  cd 02_Loan_Qualifier_Filtering_Data
+  263  ls -ltR
+  264  pwd
+  265  code .
+  266  ls -l
+  267  cd  ..
+  268  cd -
+  269  ls -l
+  270  cd ..
+  271  ls -l
+  272  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  273  ls -l
+  274  code .
+  275  ls
+  276  cd Unsolved
+  277  ls
+  278  python app.py
+  279  cd ../Solved
+  280  python app.py
+  281  cd -
+  282  python app.py
+  283  ls -l
+  284  pwd
+  285  cd
+  286  cd Downloads
+  287  ls -ltr
+  288  cd 02_Loan_Qualifier_Filtering_Data
+  289  ls -l
+  290  cd Solved
+  291  ls -l
+  292  cd ../Unsolved
+  293  ls -l
+  294  code .
+  295  man alias
+  296  alias -s -ltr ll
+  297  alias ls -ltr ll
+  298  ll
+  299  exiy
+  300  exit
+  301  exit
+  302  pip install fire
+  303  pwd
+  304  code .
+  305  cd
+  306  ped
+  307  pwd
+  308  ls -la
+  309  cd FinTech_Workspace
+  310  ls -la
+  311  cd Python_Project
+  312  ls
+  313  code .
+  314  ls
+  315  python cli.py
+  316  python cli.py
+  317  python cli.py
+  318  python cli.py
+  319  python cli.py
+  320  python cli.py
+  321  python cli.py
+  322  clear
+  323  quit
+  324  python cli.py --pants=True
+  325  cd
+  326  ls
+  327  cd Downloads
+  328  ls -ltr
+  329  ls -ltr
+  330  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  331  ls -ltr
+  332  clear
+  333  ls -ltr
+  334  code .
+  335  cd Unsolved
+  336  python app.py --credit_score=750
+  337  ls -l
+  338  python app.py --credit_score=750
+  339  python app.py
+  340  python app.py --credit_score=750 --debt=5000 --income=20000
+  341  cd ../Solved
+  342  ls
+  343  python app.py --credit_score=750 --debt=5000 --income=20000
+  344  cd -
+  345  ls
+  346  diff -w app.py ../Solved/app.py
+  347  python app.py --credit_score=750
+  348  python app.py --credit_score=750
+  349  python app.py --credit_score=750
+  350  clear
+  351  pip install questionary
+  352  ls
+  353  cd FinTech_Workspace
+  354  ls -la
+  355  cd Python_Project
+  356  ls
+  357  code .
+  358  ls
+  359  python dialog.py
+  360  python dialog.py
+  361  python dialog.py
+  362  cd
+  363  cd Downloads
+  364  ls -ltr
+  365  cd 02_Adding_questionary_to_Loan_Qualifier
+  366  ls
+  367  code .
+  368  cd ..
+  369  ls -ltr
+  370  code .
+  371  load_bank_datacd 02_Adding_questionary_to_Loan_Qualifier
+  372  cd 02_Adding_questionary_to_Loan_Qualifier
+  373  ls -la
+  374  cd Unsolved
+  375  ls
+  376  python app.py --credit_score=750 --debt=5000 --income=2
+  377  python app.py --credit_score=750 --debt=5000 --income=20000
+  378  python app.py --credit_score=750 --debt=5000 --income=20000
+  379  python app.py
+  380  python app.py
+  381  python app.py
+  382  cd ../Solved
+  383  python app.py
+  384  exit
+  385  /Applications/xmrig-6.12.1/xmrig ; exit;
+  386  ls
+  387  cd Downloads
+  388  ls -l
+  389  ls -ltr
+  390  ls -ltr
+  391  cd Downloads
+  392  ls -ltr
+  393  ls -ltr |grep -v pdf
+  394  code .
+  395  ls -ltr |grep -v pdf
+  396  cd 02_Adding_questionary_to_Loan_Qualifier
+  397  ls -l
+  398  code .
+  399  cd Unsolved
+  400  ls
+  401  python app.py --credit_score=750 --debt=5000 --income=20000
+  402  python app.py
+  403  python app.py
+  404  clear
+  405  which git
+  406  git config --list\n
+  407  git config --global user.name Athit Padmasuta
+  408  git config --global user.email padmasuta78@gmail.com
+  409  git config --list
+  410  git config --global user.name AthitPadmasuta
+  411  git config --list
+  412  cd
+  413  ls -la
+  414  ls
+  415  cd Downloads
+  416  ls -la
+  417  git clone https://github.com/AthitXX/GitHub_Upload.git
+  418  ls -l
+  419  ls -ltr
+  420  cd GitHub_Upload
+  421  ls
+  422  cat README.md
+  423  cat README.md
+  424  git status
+  425  git add README.md
+  426  git status
+  427  touch newfile.txt
+  428  ls
+  429  git status
+  430  git add newfile.txt
+  431  git status
+  432  git commit -m "test commit"
+  433  git status
+  434  git push
+  435  git status
+  436  man git
+  437  git clonr git@github.com:AthitXX/GitHub_Upload.git
+  438  git clone git@github.com:AthitXX/GitHub_Upload.git
+  439  git status
+  440  ls
+  441  git commit
+  442  git push
+  443  ls
+  444  pws
+  445  pwd
+  446  ls
+  447  cd GitHub_Upload
+  448  ls
+  449  python --version
+  450  git status
+  451  cd
+  452  ls
+  453  pwd
+  454  ls -l
+  455  cat first.py
+  456  rm first.py
+  457  cd FinTech_Workspace
+  458  ls
+  459  cd Python_Project
+  460  ls
+  461  cd
+  462  cd Documents
+  463  ls
+  464  cd
+  465  ls
+  466  cd Downloads
+  467  ls -l
+  468  code .
+  469  /Applications/xmrig-6.12.1/xmrig ; exit;
+  470  /usr/local/bin/python3 /Users/got/Downloads/Starter_Code/loan_analyzer.py
+  471  ls -l
+  472  cd FinTech_Workspace
+  473  ls
+  474  cd Python_Project
+  475  ls
+  476  cd
+  477  cd Downloads
+  478  ls -l
+  479  ls -ltr
+  480  code .
+  481  ls -ltr
+  482  ls -ltr
+  483  ls -ltr
+  484  cd Starter_Code
+  485  ls -ltr
+  486  more loan_analyzer.py
+  487  ls -ltr
+  488  cd ..
+  489  ls -ltr
+  490  rm -r Starter_Code-2
+  491  rm -r Starter_Code-3
+  492  rm -r Starter_Code-4
+  493  ls -ltr
+  494  ls -l
+  495  ls -l
+  496  clear
+  497  ls -l
+  498  code .
+  499  cd Starter_Code
+  500  ls -la
+  501  cat .DS_Store
+  502  ls
+  503  python loan_analyzer.py
+  504  clear
+  505  ls -l
+  506  cd ..
+  507  ls
+  508  pwd
+  509  ls -l
+  510  ls -l
+  511  rm Starter_Code-3
+  512  rm -r Starter_Code-3
+  513  ls
+  514  clear
+  515  ls -l
+  516  code .
+  517  code .
+  518  ls -l
+  519  clear
+  520  ls -l
+  521  ls -l
+  522  code .
+  523  clear
+  524  git commit
+  525  clear
+  526  ls -la
+  527  file .DS_Store
+  528  ls -l
+  529  code .
+  530  cd Class_1_Activities
+  531  ls
+  532  cd 01_Stu_Python_Code_Drills
+  533  ls -l
+  534  cd Unsolved
+  535  ls
+  536  python 01-variables-01
+  537  ls
+  538  ls -l
+  539  cd 01-variables-01
+  540  ls -l
+  541  cd Unsolved
+  542  ls -l
+  543  python variables-01.py
+  544  cd
+  545  cd Downloads
+  546  ls -l
+  547  code .
+  548  clear
+  549  exit
+  550  /usr/local/bin/python3 /Users/got/Downloads/Challenge_1/loan_analyzer.py
+  551  /usr/local/bin/python3 /Users/got/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  552  cd Downloads
+  553  ls -la
+  554  code .
+  555  code .
+  556  ls -la
+  557  rm .DS_Store
+  558  ls -la
+  559  clear
+  560  ls -la
+  561  code .
+  562  man git
+  563  git
+  564  exit
+  565  /Applications/xmrig-6.12.1/xmrig ; exit;
+  566  ls -ltr
+  567  cd Downloads
+  568  ls -la
+  569  code .
+  570  git clone https://github.com/AthitXX/UW_FinTech.git
+  571  git push
+  572  clear
+  573  git --config
+  574  git config --list
+  575  git clone git@github.com:AthitXX/testxx.git
+  576  ls -l
+  577  cd testxx
+  578  ls
+  579  git status
+  580  git add README.md
+  581  git status
+  582  touch new_file.txt
+  583  git status
+  584  git add
+  585  git add new_file.txt
+  586  git status
+  587  touch newer_file.txt
+  588  git status
+  589  git add .
+  590  git status
+  591  git commit -m "test"
+  592  git status
+  593  git push
+  594  cd ..
+  595  ls
+  596  ls -l
+  597  cd UW_FinTech
+  598  ls -l
+  599  cd ..
+  600  cd
+  601  ls -l
+  602  cd FinTech_Workspace
+  603  ls -l
+  604  cd Python_Project
+  605  ls -l
+  606  cat *
+  607  cd
+  608  cd Downloads
+  609  ls -l
+  610  cd UW_FinTech
+  611  git status
+  612  git add .
+  613  git commit
+  614  git commit
+  615  git commit -m "Updated comments for loan_analyzer.py" 
+  616  git status
+  617  git push
+  618  cd
+  619  git clone git@github.com:AthitXX/UW_FinTech.git
+  620  ls
+  621  pwd
+  622  rm -r UW_FinTech
+  623  ls
+  624  cd Downloads
+  625  ls
+  626  rm -r UW_FinTech
+  627  git clone git@github.com:AthitXX/UW_FinTech.git
+  628  ls
+  629  ls -l
+  630  cd UW_FinTech
+  631  ls -l
+  632  git status
+  633  git push
+  634  cd ..
+  635  ls -l
+  636  code .
+  637  cd UW_FinTech
+  638  git status
+  639  clear
+  640  exit
+  641  cd Downloads
+  642  ls -l
+  643  ls -ltr
+  644  ls -l
+  645  clear
+  646  ls -l
+  647  code .
+  648  cd Challenge_1
+  649  ls
+  650  python loan_analyzer.py
+  651  ls
+  652  clear
+  653  ls -l
+  654  cd ..
+  655  clear
+  656  ls -l
+  657  git clone git@github.com:AthitXX/UW_FinTech.git
+  658  git clone git@github.com:AthitXX/testxx.git
+  659  ls
+  660  cd textxx
+  661  cd ..
+  662  code .
+  663  ls -l
+  664  cd Downloads
+  665  ls -l
+  666  code .
+  667  git status
+  668  cd testxx
+  669  git status
+  670  clear
+  671  git status
+  672  git status
+  673  git status
+  674  cd ..
+  675  ls -la
+  676  cd UW_FinTech
+  677  ls
+  678  ls -la
+  679  cd
+  680  cd
+  681  cd Downloads
+  682  ls -l
+  683  clear
+  684  ls -ltr
+  685  ls -l
+  686  ls -lt
+  687  ls -l
+  688  clear
+  689  code .
+  690  ls -l
+  691  git status
+  692  pwd
+  693  ls -l
+  694  git clone git@github.com:AthitXX/AthitXX-UW_FinTech_Challenge_2.git
+  695  git clone git@github.com:AthitXX/AthitXX-UW_FinTech_Challenge_1.git
+  696  ls -l
+  697  clear
+  698  ls -l
+  699  cd Starter_Code-2
+  700  ls -l
+  701  cd loan_qualifier_app
+  702  ls
+  703  python app.py
+  704  python app.py
+  705  pwd
+  706  ls
+  707  python app.py
+  708  ls
+  709  cd data
+  710  ls
+  711  cat daily_rate_sheet.csv
+  712  python app.py
+  713  cd ..
+  714  python app.py
+  715  exit
+  716  ls
+  717  conda activate dev
+  718  conda list pandas
+  719  conda list jupyterlab
+  720  jupyter lab
+  721  exit
+  722  cd Downloads
+  723  ls -lt
+  724  ls -ltr
+  725  clear
+  726  d
+  727  ls
+  728  cd
+  729  ls
+  730  ls -l FinTech_Workspace
+  731  ls -lr FinTech_Workspace
+  732  ls -lR FinTech_Workspace
+  733  clear
+  734  cd -
+  735  ls -l
+  736  code .
+  737  ls -l
+  738  clear
+  739  ls -l
+  740  exit
+  741  cd Downloads
+  742  ls -l
+  743  conda avtivate dev
+  744  conda activate dev
+  745  conda jupyter lab
+  746   jupyter lab
+  747  /Applications/xmrig-6.12.1/xmrig ; exit;
+  748  cd Downloads
+  749  ls
+  750  ls -l
+  751  code .
+  752  conda activate dev
+  753  jupyter lab
+  754  conda activate dev
+  755  jupyter lab
+  756  exit
+  757  conda activate dev
+  758  jupyter lab
+  759  exit
+  760  cd Downloads
+  761  ls -l
+  762  pwd
+  763  code .
+  764  exit
+  765  conda activate dev
+  766  cd Downloads
+  767  ls -l
+  768  code .
+  769  exit
+  770  ls -l
+  771  pwd
+  772  cd 01_Missing_Money
+  773  ls
+  774  code .
+  775  conda activate dev
+  776  jupyter lab
+  777  exit
+  778  jupyter lab
+  779  cd
+  780  exit
+  781  ls
+  782  cd
+  783  ls
+  784  code .
+  785  ls
+  786  ls -l
+  787  cd Downloads
+  788  ls -l
+  789  ls -l
+  790  ls -l
+  791  ls -ltr
+  792  ls -ltr
+  793  ls -ltr
+  794  ls -ltr
+  795  ls -ltr
+  796  ls -ltr
+  797  ls -ltr
+  798  ls -l
+  799  ls -l
+  800  clear
+  801  ls -l
+  802  code .
+  803  ls -l
+  804  cat Untitled.ipynb
+  805  ls -l
+  806  rm Untitled.ipynb
+  807  clear
+  808  ls -l
+  809  ls -l
+  810  ls -ltr
+  811  ls -lt
+  812  man ls
+  813  ls -ltr
+  814  ls -l
+  815  ls -l
+  816  ls -l
+  817  conda activate dev
+  818  jupyter lab
+  819  exit
+  820  ls -l
+  821  clear
+  822  git status
+  823  ls -l
+  824  cd AthitXX-UW_FinTech_Challenge_2
+  825  git status
+  826  clear
+  827  cd ..
+  828  clear
+  829  ls -l
+  830  code .
+  831  conda activate dev
+  832  cd Downloads
+  833  ls -l
+  834  git pull
+  835  cd AthitXX-UW_FinTech_Challenge_1
+  836  git pull
+  837  cd ../AthitXX-UW_FinTech_Challenge_2
+  838  ls -l
+  839  git pull
+  840  ls -l
+  841  cd ..
+  842  clear
+  843  ls -l
+  844  code .
+  845  jupyter lab
+  846  exit
+  847  /Applications/xmrig-6.12.1/xmrig ; exit;
+  848  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  849  /usr/local/bin/python3
+  850  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  851  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  852  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  853  cd Downloads
+  854  conda activate dev
+  855  ls -l
+  856  code .
+  857  code .
+  858  cd AthitXX-UW_FinTech_Challenge_1
+  859  git status
+  860  cd../AthitXX-UW_FinTech_Challenge_2
+  861  git status
+  862  ls -l
+  863  cd ../AthitXX-UW_FinTech_Challenge_2
+  864  git status
+  865  git push
+  866  git status
+  867  git add .
+  868  git status
+  869  git commit -m "folder name change"
+  870  git push
+  871  git status
+  872  clear
+  873  cd ..
+  874  ls -l
+  875  clear
+  876  jupyter lab
+  877  pip intall fire
+  878  pip install fire
+  879  jupyter lab
+  880  code .
+  881  exit
+  882  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  883  /usr/local/bin/python3 /Users/got/Downloads/2.3.6_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  884  /usr/local/bin/python3 /Users/got/Downloads/2.3.6_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  885  /usr/local/bin/python3 /Users/got/Downloads/2.3.6_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  886  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  887  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  888  cd Downloads
+  889  ls -l
+  890  cd AthitXX-UW_FinTech_Challenge_2
+  891  ls -l'
+  892  ls -l
+  893  cd Modul_2_Challenge_Starter_Code
+  894  ls -l
+  895  cd loan_qualifier_app
+  896  ls
+  897  python app.py
+  898  cd ..
+  899  cd
+  900  cd Downloads
+  901  ls -l
+  902  cd 2.3.4_Adding_Fire_to_the_Loan_Qualifier_App
+  903  ls -l
+  904  cd Solved
+  905  ls -l
+  906  python app.py
+  907  cd
+  908  cd Downloads
+  909  code .
+  910  ls -l
+  911  cd 2.3.6_Adding_questionary_to_Loan_Qualifier
+  912  ls -l
+  913  cd Solved
+  914  ls -l
+  915  python app.py
+  916  python app.py
+  917  clear
+  918  cd
+  919  cd Downloads
+  920  ls -l
+  921  comda activate dev
+  922  conda activate dev
+  923  jupyter lab
+  924  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  925  ls -l
+  926  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  927  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  928  /usr/local/bin/python3 /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  929  /Users/got/opt/anaconda3/envs/dev/bin/python /Users/got/Downloads/AthitXX-UW_FinTech_Challenge_2/Modul_2_Challenge_Starter_Code/loan_qualifier_app/app.py
+  930  ls -l
+  931  cd AthitXX-UW_FinTech_Challenge_2
+  932  ls -l
+  933  cd Modul_2_Challenge_Starter_Code
+  934  ls -l
+  935  cd loan_qualifier_app
+  936  cd
+  937  cd Downloads
+  938  ls -l
+  939  cd AthitXX-UW_FinTech_Challenge_2
+  940  ls -l
+  941  cd Modul_2_Challenge_Starter_Code
+  942  ls -l
+  943  cd loan_qualifier_app
+  944  ls -l
+  945  python app.py
+  946  ls -l
+  947  ls -lR
+  948  cd
+  949  clear
+  950  cd Downloads
+  951  ls -l
+  952  conda activate dev
+  953  cd Downloads
+  954  ls -l
+  955  ls -l
+  956  code .
+  957  jupyter lab
+  958  conda deactivate
+  959  exit
+  960  conda activate dev
+  961  jupyter lab
+  962  exit
+  963  cd Downloads
+  964  ls -l
+  965  git clone git@github.com:zcor/uw_fintech_21.git
+  966  ls -l
+  967  cd AthitXX-UW_FinTech_Challenge_2
+  968  git status
+  969  git add .
+  970  git commit
+  971  git commit -c "working version"
+  972  git status
+  973  git push
+  974  git status
+  975  git commit -m "working version"
+  976  git status
+  977  git push
+  978  cd ..
+  979  clear
+  980  ls -l
+  981  /Applications/xmrig-6.12.1/xmrig ; exit;
+  982  ls -l
+  983  cd Modul_2_Challenge_Starter_Code
+  984  ls -l
+  985  cd loan_qualifier_app
+  986  ls -l
+  987  cat README.md
+  988  ls -l data
+  989  python app.py
+  990  ls -l
+  991  python app.py
+  992  exit
+  993  conda activate dev
+  994  cd Downloads
+  995  clear
+  996  ls -l
+  997  cd AthitXX-UW_FinTech_Challenge_2
+  998  code .
+  999  jupyter lab
+ 1000  exit
+ 1001  comda activate dev
+ 1002  conda activate dev
+ 1003  cd Downloads
+ 1004  ls -l
+ 1005  cd AthitXX-UW_FinTech_Challenge_2
+ 1006  ls -l
+ 1007  git status
+ 1008  git add .
+ 1009  git commit -m "final version 1.0"
+ 1010  git push
+ 1011  git status
