@@ -26,6 +26,16 @@ and can be run by navigating to the folder where app.py is located and runnung t
 This program requires that the python fire and questionary modules be installed.
 The commands to install are "pip install fire" and "pip install questionary" on the CLI
 
+(dev) got@Athits-MacBook-Air AthitXX-UW_FinTech_Challenge_1 % pip install fire                                             
+Requirement already satisfied: fire in /Users/got/opt/anaconda3/envs/dev/lib/python3.7/site-packages (0.4.0)
+Requirement already satisfied: termcolor in /Users/got/opt/anaconda3/envs/dev/lib/python3.7/site-packages (from fire) (1.1.0)
+Requirement already satisfied: six in /Users/got/opt/anaconda3/envs/dev/lib/python3.7/site-packages (from fire) (1.16.0)
+(dev) got@Athits-MacBook-Air AthitXX-UW_FinTech_Challenge_1 % pip install questionary
+Requirement already satisfied: questionary in /Users/got/opt/anaconda3/envs/dev/lib/python3.7/site-packages (1.10.0)
+Requirement already satisfied: prompt_toolkit<4.0,>=2.0 in /Users/got/opt/anaconda3/envs/dev/lib/python3.7/site-packages (from questionary) (3.0.17)
+Requirement already satisfied: wcwidth in /Users/got/opt/anaconda3/envs/dev/lib/python3.7/site-packages (from prompt_toolkit<4.0,>=2.0->questionary) (0.2.5)
+(dev) got@Athits-MacBook-Air AthitXX-UW_FinTech_Challenge_1 % 
+
 ---
 
 ## Usage
